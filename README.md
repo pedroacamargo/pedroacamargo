@@ -5,4 +5,4 @@
 <a target="_blank" href="https://www.instagram.com/pedroa_camargo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a target="_blank" href="https://twitter.com/pedroaugennes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a target="_blank" href="https://www.facebook.com/pedroaugusto.ennes/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a target="_blank" href="https://www.reddit.com/user/Mutaante"><img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+<a target="_blank" href="https://www.reddit.com/user/Mutaante"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
