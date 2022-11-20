@@ -35,4 +35,4 @@
 
 <hr>
 <h1>📈 Github Stats and Activities</h1>
-![pedroacamargo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroacamargo&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroacamargo)](https://github.com/anuraghazra/github-readme-stats)
