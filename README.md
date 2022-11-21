@@ -35,4 +35,4 @@
 
 <hr>
 <h1>📈 Github Stats and Activities</h1>
-[transparent]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent
+<img src="https://github-readme-stats.vercel.app/api?username={pedroacamargo}">
