@@ -37,4 +37,3 @@
 <h1>📈 Github Stats and Activities</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=pedroacamargo">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroacamargo">
-<img src="https://raw.githubusercontent.com/EvanderInacio/EvanderInacio/output/github-contribution-grid-snake.svg">
