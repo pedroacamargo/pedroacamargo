@@ -40,4 +40,7 @@
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroacamargo&theme=dark&show_icons=true">
 </p>
 
+
+<h1>My commits :)</h1>
+
 ![Snake animation](https://github.com/pedroacamargo/pedroacamargo/blob/output/github-contribution-grid-snake.svg)
