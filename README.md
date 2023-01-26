@@ -7,13 +7,18 @@
 <a target="_blank" href="https://www.facebook.com/pedroaugusto.ennes/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a target="_blank" href="https://www.reddit.com/user/Mutaante"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a> 
 </p>
+
+
+![Snake animation](https://github.com/pedroacamargo/pedroacamargo/blob/output/github-contribution-grid-snake.svg)
+    
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user={pedroacamargo}&theme={tokyonight}">
+    <img src="https://komarev.com/ghpvc/?username=pedroacamargo&color=191b1e" alt="Profile views" />
 </p>
 
 <hr>
 
-<h1>🛠 Skills </h1>
+<details open>
+    <summary><h1>🛠 Skills </h1></summary>
 <h2>👨‍💻 Programming and Markup Languages </h2>
 <p>
     <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -39,15 +44,13 @@
     <a><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"></a>
 </p>
-
-<hr>
-<h1>📈 Github Stats and Activities</h1>
-<p align="center">
-<img height='195px' src="https://github-readme-stats.vercel.app/api?username=pedroacamargo&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="evander stats"/>
-<img height='195px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroacamargo&layout=compact&theme=aura" alt="evander stats"/>
-</p>
-
-
-<h1>My commits :)</h1>
-
-![Snake animation](https://github.com/pedroacamargo/pedroacamargo/blob/output/github-contribution-grid-snake.svg)
+    
+</details>
+<details>
+    <summary><h1>📈 Github Stats and Activities</h1></summary>
+    <p align="center">
+        <img height='195px' src="https://github-readme-stats.vercel.app/api?username=pedroacamargo&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="evander stats"/>
+        <img height='195px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroacamargo&layout=compact&theme=aura" alt="evander stats"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user={pedroacamargo}&theme={tokyonight}">
+    </p>
+</details>
