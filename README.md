@@ -46,6 +46,7 @@
 <h2>🎓Currently Studying</h2>
 <p>
     <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+    <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 </p>
     
 </details>
