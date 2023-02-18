@@ -57,4 +57,6 @@
         <img height='195px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroacamargo&layout=compact&theme=aura" alt="evander stats"/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user={pedroacamargo}&theme={tokyonight}">
     </p>
+    <p align="center"><a href="https://tryhackme.com/p/Pedroca"><img src="https://tryhackme-badges.s3.amazonaws.com/Pedroca.png" alt="TryHackMe"></a></p>
 </details>
+
