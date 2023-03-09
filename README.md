@@ -1,5 +1,5 @@
 <h2 align="center">💻 Pedro Augusto Camargo </h2>
-<p align="center"><code align="center">📌Elegant Programmer </code></p>
+<p align="center"><code align="center">📌 Elegant Programmer </code></p>
 <p> Welcome to my profile, I'm an 18 years old programmer studying Computer Science at University of Minho. I'm at 1st year of the course, so my carreer has just begun. My first contact with programming was when I was 17 years old, while I was at high school (studying economics), I studied on my own web develpment and after that I fell in love with this world. Today I have some experience with FrontEnd Development and I'm actually working on some projects which you can see in my repos :).</p>
 <p align="center">
 <a target="_blank" href="https://www.instagram.com/pedroa_camargo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
