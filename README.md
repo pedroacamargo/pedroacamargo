@@ -7,7 +7,7 @@
 <p>
     <img style="padding: 35px;" align="right" height="130" src="https://github.com/pedroacamargo/pedroacamargo/blob/main/assets/catprogramming.gif">
     <img align="right" height ="150" width="10"src="https://camo.githubusercontent.com/9485eb85e98b5b6ccec8e16dc28a278283ad020fdd8fde03c22fe2be6539816b/68747470733a2f2f6173736574732e6a756d7073656c6c65722e636f6d2f73746f72652f696e636f6d706c657465706f727472616974732f7468656d65732f3130313636362f6f7074696f6e732f323936333634322f53454d2532304e4144412e706e673f31353233373431303030">
-    Welcome to my profile, I'm an 18 years old programmer studying Computer Science at University of Minho. I'm at 1st year of the course, so my carreer has just begun. My first contact with programming was when I was 17 years old, while I was at high school (studying economics), I studied on my own web develpment and after that I fell in love with this world. Today I have some experience with FrontEnd Development and I'm actually working on some projects which you can see in my repos :).
+    Welcome to my profile, I'm a 19 years old programmer studying Computer Science at University of Minho. I'm at 1st year of the course, so my carreer has just begun. My first contact with programming was when I was 17 years old, while I was at high school (studying economics), I studied on my own web develpment and after that I fell in love with this world. Today I have some experience with FrontEnd Development and I'm actually working on some projects which you can see in my repos :).
 </p>
 <p align="center">
 <a target="_blank" href="https://www.instagram.com/pedroa_camargo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
