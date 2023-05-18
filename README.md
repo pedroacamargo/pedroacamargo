@@ -1,4 +1,8 @@
-<h2 align="center">💻 Pedro Augusto Camargo </h2>
+<h2 align="center">
+    <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-brazil.gif" height="50" width="50">
+    Pedro Augusto Camargo 
+    <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portugal.gif" height="50" width="50">
+</h2>
 <p align="center"><code align="center">📌 Elegant Programmer </code></p>
 <p> Welcome to my profile, I'm an 18 years old programmer studying Computer Science at University of Minho. I'm at 1st year of the course, so my carreer has just begun. My first contact with programming was when I was 17 years old, while I was at high school (studying economics), I studied on my own web develpment and after that I fell in love with this world. Today I have some experience with FrontEnd Development and I'm actually working on some projects which you can see in my repos :).</p>
 <p align="center">
@@ -14,8 +18,7 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=pedroacamargo&color=191b1e" alt="Profile views" />
 </p>
-
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <details open>
     <summary><h1>🛠 Skills </h1></summary>
