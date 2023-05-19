@@ -10,7 +10,7 @@
     Welcome to my profile, I'm a 19 years old programmer studying Computer Science at University of Minho. I'm in the 1st year of the course, so my carreer has just begun. My first contact with programming was when I was 17 years old, while I was at high school (studying economics), I studied on my own web develpment and after that I fell in love with this world. Today I have some experience with FrontEnd Development and I'm actually working on some projects which you can see in my repos.
     </p>
     <p>
-    Also, I'm a Water Polo goalkeeper, playing at Vitoria SC. 5 times portuguese champion, 2 times awarded as the best goalkeeper in Portugal (U16) and in Brazil (U13). Furthermore, 2 appearances at Champions League (2021/2022 && 2022/2023) :).
+    Also, I'm a Water Polo goalkeeper, playing at Vitoria SC. 5 times portuguese champion, 2 times awarded as the best goalkeeper in Portugal (U16) and in Brazil (U13). Furthermore, 2 appearances in Champions League (2021/2022 && 2022/2023) :).
 </p>
 <img align="right" height="100" src="https://github.com/pedroacamargo/pedroacamargo/blob/main/assets/waterpolo.gif">
 <br>
