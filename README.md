@@ -13,6 +13,7 @@
     Also, I'm a Water Polo goalkeeper, playing at Vitoria SC. 5 times portuguese champion, 2 times awarded as the best goalkeeper in Portugal (U16) and in Brazil (U13). Furthermore, 2 appearances at Champions League (2021/2022 && 2022/2023) :).
 </p>
 <img align="right" height="100" src="https://github.com/pedroacamargo/pedroacamargo/blob/main/assets/waterpolo.gif">
+<br>
 <p align="center">
 <a target="_blank" href="https://www.instagram.com/pedroa_camargo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a target="_blank" href="https://twitter.com/pedroaugennes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
