@@ -23,7 +23,6 @@
 </p>
 <br>
 
-![Snake animation](https://github.com/pedroacamargo/pedroacamargo/blob/output/github-contribution-grid-snake.svg)
     
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=pedroacamargo&color=191b1e" alt="Profile views" />
