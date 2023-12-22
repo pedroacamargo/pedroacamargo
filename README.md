@@ -15,60 +15,28 @@
 </p>
 <img align="right" height="100" src="https://github.com/pedroacamargo/pedroacamargo/blob/main/assets/waterpolo.gif">
 <br>
+
 <p align="center">
-<a target="_blank" href="https://www.instagram.com/pedroa_camargo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a target="_blank" href="https://twitter.com/pedroaugennes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a target="_blank" href="https://www.facebook.com/pedroaugusto.ennes/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a target="_blank" href="https://www.reddit.com/user/Mutaante"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a> 
+    
+  <a href="https://www.instagram.com/pedroa_camargo/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+    
+  <a href="https://twitter.com/pedroaugennes/">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
 <br>
-
     
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=pedroacamargo&color=191b1e" alt="Profile views" />
 </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-<details open>
-    <summary><h1>🛠 Skills </h1></summary>
-<h2>👨‍💻 Programming and Markup Languages </h2>
-<p>
-    <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-    <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-    <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-    <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-    <a><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"></a>
-    <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-</p>
 
-<h2>🔭 Frameworks</h2>
-<p>
-    <a><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-    <a><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-    <a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
-    <a><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
-    <a><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a>
-    <a><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
-    <a><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
-    <a><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
-</p>
+<summary><h1>🛠 Skills </h1></summary>
 
-<h2>🛠 Software and tools </h2>
-<p>
-    <a><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
-    <a><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-    <a><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-    <a><img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
-</p>
-    
-<h2>🎓Currently Studying</h2>
-<p>
-    <a><img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></a>
-</p>
-    
-</details>
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,haskell,c,py,nestjs,react,bootstrap,tailwind,sass,styledcomponents,nextjs,prisma,bash,redux,firebase,git,github,linux)](https://skillicons.dev)
+
 <details>
     <summary><h1>📈 Github Stats and Activities</h1></summary>
     <p align="center">
