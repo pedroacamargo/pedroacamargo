@@ -33,9 +33,14 @@
 </p>
 
 
-<summary><h1>🛠 Skills </h1></summary>
+<h1>🛠 Skills </h1>
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,haskell,c,py,nestjs,react,bootstrap,tailwind,sass,styledcomponents,nextjs,prisma,bash,redux,firebase,git,github,linux)](https://skillicons.dev)
+
+<h1><strong>📚 Studying</strong></h1>
+
+[![Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+
 
 <details>
     <summary><h1>📈 Github Stats and Activities</h1></summary>
