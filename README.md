@@ -3,16 +3,16 @@
     Pedro Augusto Camargo 
     <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portugal.gif" height="50" width="50">
 </h2>
-<p align="center"><code align="center">📌 Elegant Programmer </code></p>
+<p align="center"><code align="center">📌 Aesthetic Programmer </code></p>
 <p>
     <img style="padding: 35px;" align="right" height="200" src="https://github.com/pedroacamargo/pedroacamargo/blob/main/assets/catprogramming.gif">
     <img align="right" height ="250" width="10"src="https://camo.githubusercontent.com/9485eb85e98b5b6ccec8e16dc28a278283ad020fdd8fde03c22fe2be6539816b/68747470733a2f2f6173736574732e6a756d7073656c6c65722e636f6d2f73746f72652f696e636f6d706c657465706f727472616974732f7468656d65732f3130313636362f6f7074696f6e732f323936333634322f53454d2532304e4144412e706e673f31353233373431303030">
-    Welcome to my profile, I'm a 19 years old programmer studying Computer Science at University of Minho. I'm in the 2nd year of the course, so my carreer has just begun. My first contact with programming was when I was 17 years old, while I was at high school (studying economics), I studied on my own web develpment and after that I fell in love with this world. Today I have some experience with FrontEnd Development and I'm actually working on some projects which you can see in my repos.
-    </p>
-    <p> Portfolio Website -> <a href="https://camargo-dev.vercel.app">(click here)</a> </p>
-    <p>
-    Also, I'm a Water Polo goalkeeper, playing at Vitoria SC. 5 times portuguese champion, 2 times awarded as the best goalkeeper in Portugal (U16) and in Brazil (U13). Furthermore, 2 appearances in Champions League (2021/2022 && 2022/2023) :).
-</p>
+    Welcome to my profile, I'm a 20 years old programmer studying Computer Science at University of Minho currently in my 3rd and last year (I hope so).
+    </p> 
+    
+Besides Computer Science, I'm a high performance waterpolo athlete, actually playing at Vitoria SC as a goalkeeper in 1st Division, with participations in Champions League, Europa League and Conference League. (If you call me a nerd ~~Imma kick your ass~~ I'll dare you to beat me in a push ups competition or 42km run 😉)
+
+<p> Portfolio Website -> <a href="https://camargo-dev.vercel.app">(click here)</a> </p>
 <img align="right" height="100" src="https://github.com/pedroacamargo/pedroacamargo/blob/main/assets/waterpolo.gif">
 <br>
 
@@ -33,13 +33,20 @@
 </p>
 
 
-<h1>🛠 Skills </h1>
+## 🖥️ Current Role
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,haskell,c,py,nestjs,react,bootstrap,tailwind,sass,styledcomponents,nextjs,prisma,bash,redux,firebase,git,github,linux)](https://skillicons.dev)
+- **Full Stack Engineer** at [DTx - Digital Transformation CoLAB](https://dtx-colab.pt/)
+  - Part of the multidisciplinary team on the "Aero.Next Portugal" project.
+  - Developing web and desktop applications, managing databases, and integrating digital transformations within the aeronautical sector.
+
+## 🛠 Skills
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,haskell,c,cpp,py,nestjs,react,bootstrap,tailwind,sass,styledcomponents,nextjs,prisma,bash,redux,firebase,git,github,linux)](https://skillicons.dev)
 
 <h1><strong>📚 Studying</strong></h1>
 
-[![Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=flutter,dart,cs)](https://skillicons.dev)
+
 
 
 <details>
