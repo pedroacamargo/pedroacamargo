@@ -35,7 +35,7 @@ Besides Computer Science, I'm a high performance waterpolo athlete, actually pla
 
 ## 🖥️ Current Role
 
-- **Full Stack Engineer** at [DTx - Digital Transformation CoLAB](https://dtx-colab.pt/)
+- **Full Stack Developer** at [DTx - Digital Transformation CoLAB](https://dtx-colab.pt/)
   - Part of the multidisciplinary team on the "Aero.Next Portugal" project.
   - Developing web and desktop applications, managing databases, and integrating digital transformations within the aeronautical sector.
 
