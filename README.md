@@ -11,12 +11,8 @@ I study and code every single day because I genuinely love what I do. Programmin
 
 I’m currently pursuing a **Master’s in Cybersecurity** while working full-time as a **Software Engineer**. 
 
----
-
 ### 📽️ Check Out My YouTube Channel
 [![YouTube](https://img.shields.io/badge/YouTube-6000%2B%20Subscribers-red?logo=youtube)](https://www.youtube.com/channel/UCAIWBl28PXQojFzqdXDo8oQ)
-
----
 
 ### 🤽‍♂️ Athlete Life
 Besides coding, I’m a **high-performance water polo goalkeeper**:  
