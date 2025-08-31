@@ -5,11 +5,13 @@
 </h2>
 <p align="center"><code align="center">📌 Aesthetic Programmer </code></p> 
 <p>
-    
-Welcome to my profile, I'm a 21 years old programmer studying Computer Science at University of Minho currently in my 3rd and last year (I hope so).
+
+I wrote my first lines of code at 17, and I’ve been hooked ever since. What started as curiosity quickly became a passion, driving me to complete my **Bachelor’s in Computer Science** at the University of Minho, Portugal.   I study and code every single day because I genuinely love what I do. Programming isn’t just a career, it’s a hobby and a creative outlet. I’m constantly learning, experimenting, and building, not only to grow professionally but because I truly enjoy the craft.  
+
+I’m currently pursuing a **Master’s in Cybersecurity** while working as a full-time **Software Engineer**.
+
+When I’m not coding, I’m a **high-performance water polo goalkeeper**, playing for **Vitória SC** in Portugal’s 1st Division and representing the **Portugal National Team**. I’ve competed in the Champions League, Euro League, Conference Cup, and the 2025 European Championship Qualifications.
 </p> 
-    
-Besides Computer Science, I'm a high performance waterpolo athlete, actually playing at Vitoria SC as a goalkeeper in 1st Division, with participations in Champions League, Europa League and Conference League. (If you call me a nerd ~~Imma kick your ass~~ I'll dare you to beat me in a push ups competition or 42km run 😉)
 
 <p> Portfolio Website -> <a href="https://camargo-dev.vercel.app">(click here)</a> </p>
 
