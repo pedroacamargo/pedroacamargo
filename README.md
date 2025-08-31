@@ -3,15 +3,27 @@
     Pedro Augusto Camargo 
     <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-portugal.gif" height="50" width="50">
 </h2>
-<p align="center"><code align="center">📌 Aesthetic Programmer </code></p> 
-<p>
+<p align="center"><code align="center">📌 Mutante </code></p> 
 
-I wrote my first lines of code at 17, and I’ve been hooked ever since. What started as curiosity quickly became a passion, driving me to complete my **Bachelor’s in Computer Science** at the University of Minho, Portugal.   I study and code every single day because I genuinely love what I do. Programming isn’t just a career, it’s a hobby and a creative outlet. I’m constantly learning, experimenting, and building, not only to grow professionally but because I truly enjoy the craft.  
+I wrote my first lines of code at 17, and I’ve been hooked ever since. What started as curiosity quickly became a passion, driving me to complete my **Bachelor’s in Computer Science** at the University of Minho, Portugal.  
 
-I’m currently pursuing a **Master’s in Cybersecurity** while working as a full-time **Software Engineer**.
+I study and code every single day because I genuinely love what I do. Programming isn’t just a career—it’s a hobby and a creative outlet. I’m constantly learning, experimenting, and building, not only to grow professionally but because I truly enjoy the craft.  
 
-When I’m not coding, I’m a **high-performance water polo goalkeeper**, playing for **Vitória SC** in Portugal’s 1st Division and representing the **Portugal National Team**. I’ve competed in the Champions League, Euro League, Conference Cup, and the 2025 European Championship Qualifications.
-</p> 
+I’m currently pursuing a **Master’s in Cybersecurity** while working full-time as a **Software Engineer**. 
+
+---
+
+### 📽️ Check Out My YouTube Channel
+[![YouTube](https://img.shields.io/badge/YouTube-6000%2B%20Subscribers-red?logo=youtube)](https://www.youtube.com/channel/UCAIWBl28PXQojFzqdXDo8oQ)
+
+---
+
+### 🤽‍♂️ Athlete Life
+Besides coding, I’m a **high-performance water polo goalkeeper**:  
+- Playing for **Vitória SC** in Portugal’s 1st Division  
+- Representing **Portugal National Team**  
+- Competed in **Champions League / Euro League / Conference Cup**  
+- Played in **2025 European Championship Qualifications**  
 
 <p> Portfolio Website -> <a href="https://camargo-dev.vercel.app">(click here)</a> </p>
 
