@@ -7,7 +7,7 @@
 
 I wrote my first lines of code at 17, and I’ve been hooked ever since. What started as curiosity quickly became a passion, driving me to complete my **Bachelor’s in Computer Science** at the University of Minho, Portugal.  
 
-I study and code every single day because I genuinely love what I do. Programming isn’t just a career—it’s a hobby and a creative outlet. I’m constantly learning, experimenting, and building, not only to grow professionally but because I truly enjoy the craft.  
+I study and code every single day because I genuinely love what I do. Programming isn’t just a career, it’s a hobby and a creative outlet. I’m constantly learning, experimenting, and building, not only to grow professionally but because I truly enjoy the craft.  
 
 I’m currently pursuing a **Master’s in Cybersecurity** while working full-time as a **Software Engineer**. 
 
